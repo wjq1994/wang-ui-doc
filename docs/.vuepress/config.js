@@ -12,12 +12,20 @@ module.exports = {
         // 为以下路由添加侧边栏
         sidebar: {
             '/components/': [{
-                    collapsable: true,
-                    children: [
-                        'button'
-                    ]
-                }
-            ]
+                collapsable: false,
+                title: "开发指南",
+                children: [
+                    'guide'
+                ]
+            }, {
+                collapsable: false,
+                title: "组件",
+                children: [
+                    'button',
+                    'icon',
+                    'testVue'
+                ]
+            }]
         }
     }
 }

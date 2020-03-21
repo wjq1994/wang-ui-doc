@@ -1,8 +1,15 @@
 
 # Button组件
-常用的操作按钮。
+
+<demo-div>
+    常用的操作按钮。
+</demo-div>
+
 ## 基础用法
-基础的按钮用法。
+
+<demo-div>
+    基础的按钮用法。
+</demo-div>
 
 <demo-block>
 ::: slot source
@@ -29,7 +36,10 @@
 
 
 ## 图标按钮
-带图标的按钮可增强辨识度（有文字）或节省空间（无文字）
+
+<demo-div>
+    带图标的按钮可增强辨识度（有文字）或节省空间（无文字）
+</demo-div>
 
 <demo-block>
 ::: slot source
@@ -52,7 +62,9 @@
 
 ## 加载中
 
-要设置为 loading 状态，只要设置loading属性为true即可。
+<demo-div>
+    要设置为 loading 状态，只要设置loading属性为true即可。
+</demo-div>
 
 <demo-block>
 ::: slot source
@@ -70,8 +82,10 @@
 
 
 ## 按钮组
-以按钮组的方式出现，常用于多项类似操作。
 
+<demo-div>
+    以按钮组的方式出现，常用于多项类似操作。
+</demo-div>
 
 <demo-block>
 ::: slot source
