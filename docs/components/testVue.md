@@ -1,7 +1,10 @@
 # 测试vue组件
 
 ## 测试全局插件
-基础的全局用法。
+
+<demo-div>
+    基础的全局用法。
+</demo-div>
 
 <demo-block>
 ::: slot source

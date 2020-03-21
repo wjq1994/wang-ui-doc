@@ -4,7 +4,7 @@ module.exports = {
     dest: './build', // 设置输出目录
     port: 1234, //端口
     head: [
-        ['link', { rel: 'shortcut icon', type: "image/x-icon", href: '/favicon.ico' }]
+        ['link', { rel: 'icon', type: "image/x-icon", href: '/favicon.ico' }]
     ],
     themeConfig: { //主题配置
         nav: [{
