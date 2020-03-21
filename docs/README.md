@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /tiger.jpg
 actionText: 欢迎 →
 actionLink: /components/guide
 features:

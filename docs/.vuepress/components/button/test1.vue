@@ -6,7 +6,5 @@
       <wang-button type="info">信息按钮</wang-button>
       <wang-button type="warning">警告按钮</wang-button>
       <wang-button type="danger">危险按钮</wang-button>
-      
   </div>
 </template>
-
